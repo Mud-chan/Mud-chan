@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github2.png" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Pramudya Luhung Kusuma</h1>
 <h3 align="center">I'm a passionate web developer focusing on front-end and back-end development. I enjoy building responsive, scalable, and efficient web applications using modern technologies. 💻 Tech Stack: Front-end: HTML, CSS, JavaScript, Vue Back-end: Laravel, Flask Database: MySQL 🚀 Currently working on improving my skills in full-stack web development and exploring new technologies. 📌 Check out my projects and feel free to collaborate!</h3>
