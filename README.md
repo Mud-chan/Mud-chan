@@ -27,7 +27,8 @@
 <a href="https://linkedin.com/in/pramudya luhung kusuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramudya luhung kusuma" height="30" width="40" /></a>
 <a href="https://fb.com/akane masayuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akane masayuki" height="30" width="40" /></a>
 <a href="https://instagram.com/lewdc.han69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lewdc.han69" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pramudya luhung kusuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pramudya luhung kusuma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@reinachan8997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pramudya luhung kusuma" height="30" width="40" /></a>
+<a href="https://www.pixiv.net/en/users/46936503" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/pixiv-square-filled.svg" alt="pramudya luhung kusuma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
