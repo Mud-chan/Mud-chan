@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakurada.pramudya) <a href="https://www.pixiv.net/en/users/46936503" style="display: inline-block; background: blue; padding: 10px; border-radius: 20%;">
-    <img src="https://brandeps.com/logo-download/P/Pixiv-logo-vector-01.svg" alt="Pixiv" style="width: 4%; display: block;">
+    <img src="https://brandeps.com/logo-download/P/Pixiv-logo-vector-01.svg" alt="Pixiv" style="width: 2%; display: block;">
 </a>
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lewdc.han69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pramudya-luhung-kusuma-43581824a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hibiki3003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lewdchan69) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@reinachan8997) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pramudyakun@gmail.com) 
 
